@@ -1,8 +1,10 @@
 * Ping-Pong
 * Only One Level Of Indentation Per Method
+
 * No elses
 * No naked primitives
 * First class collections
+
 * No getters and setters
 * No Mouse
 * No Mutable state
