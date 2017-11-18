@@ -10,8 +10,8 @@
 
 * No Mutable state
 * Max 4 statements per method
-* One dot per line
 * No conditional statements
+
 * No loops
 * Reverse Game of Life (https://docs.google.com/document/d/1WNz9dJ7AGHUBeJdU6UuGSD_-8uVsIAodZpihvdkKT9s/edit)
 * Code swap

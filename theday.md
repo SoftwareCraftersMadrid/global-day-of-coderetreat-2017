@@ -46,5 +46,8 @@
   * First class collections
   * No getters and setters
   * No mouse
-- Session 5 =>
+- Session 5
+  * No Mutable state
+  * Max 4 statements per method
+  * No conditional statements
 - Session 6 =>
