@@ -35,7 +35,7 @@
 - Global: [@coderetreat](https://twitter.com/coderetreat) #gdcr17 #live
 
 ### Session Activities (Constrains)
-- Session 1 =>
+- Session 1 => No Constrains
 - Session 2 =>
 - Session 3 =>
 - Session 4 =>
