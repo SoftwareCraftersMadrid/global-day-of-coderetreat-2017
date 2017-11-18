@@ -36,7 +36,9 @@
 
 ### Session Activities (Constrains)
 - Session 1 => No Constrains
-- Session 2 =>
+- Session 2
+  * Ping-Pong
+  * Only One Level Of Indentation Per Method
 - Session 3 =>
 - Session 4 =>
 - Session 5 =>
