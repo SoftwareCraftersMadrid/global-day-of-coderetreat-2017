@@ -42,6 +42,9 @@
 - Session 3
   * No elses
   * No naked primitives
-- Session 4 =>
+- Session 4
+  * First class collections
+  * No getters and setters
+  * No mouse
 - Session 5 =>
 - Session 6 =>
