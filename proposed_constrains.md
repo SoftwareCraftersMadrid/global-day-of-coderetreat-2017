@@ -3,10 +3,11 @@
 
 * No elses
 * No naked primitives
-* First class collections
 
+* First class collections
 * No getters and setters
 * No Mouse
+
 * No Mutable state
 * Max 4 statements per method
 * One dot per line
