@@ -50,4 +50,6 @@
   * No Mutable state
   * Max 4 statements per method
   * No conditional statements
-- Session 6 =>
+- Session 6
+  * No loops
+  * Reverse Game of Life (https://docs.google.com/document/d/1WNz9dJ7AGHUBeJdU6UuGSD_-8uVsIAodZpihvdkKT9s/edit)
