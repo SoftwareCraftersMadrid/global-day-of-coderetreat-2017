@@ -30,9 +30,9 @@
 - 17:25 - 18:00 : Final Retrospective (30 min)
 
 ### Be Social
-- Facilitators: [@madswcraft](https://twitter.com/madswcraft) #gdcr16Madrid
+- Facilitators: [@madswcraft](https://twitter.com/madswcraft) #gdcr17Madrid
 - Hoster: [@idealista](https://twitter.com/idealista) #creamcode
-- Global: [@coderetreat](https://twitter.com/coderetreat) #gdcr16
+- Global: [@coderetreat](https://twitter.com/coderetreat) #gdcr17 #live
 
 ### Session Activities (Constrains)
 - Session 1 =>
