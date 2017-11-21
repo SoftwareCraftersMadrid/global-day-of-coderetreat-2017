@@ -1,8 +1,9 @@
 # Summary 18/11/2017
 ----
 
-[Summary on Twitter]()
-[Pictures]()
+[Summary on Twitter](https://twitter.com/i/moments/931940301920505856), 
+[Pictures](https://www.meetup.com/es-ES/madswcraft/photos/28339208/)
+
 ## Retrospective
 
 * More of
